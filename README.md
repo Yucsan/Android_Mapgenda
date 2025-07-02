@@ -4,15 +4,13 @@ Aplicación móvil de turismo personalizado que permite a los usuarios encontrar
 
 ---
 
-## 🖼️ Encabezado del Proyecto
-
 <img src="assets/HEADER.jpg" width="100%"/>
 
 ---
 
 ## ✨ Características Principales
 
-- Descubrimiento inteligente de lugares cercanos
+- Descubrimiento de lugares cercanos
 - Integración con Google Maps, Places y Directions API
 - Rutas para caminar o andar en bicicleta
 - Guardado de lugares favoritos con acceso offline
