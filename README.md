@@ -15,8 +15,8 @@ Aplicación móvil de turismo personalizado que permite a los usuarios encontrar
 - Rutas para caminar o andar en bicicleta
 - Guardado de lugares con acceso offline
 - Autenticación con Google Sign-In
-- Reproducción de video en pantalla inicial
 - Gestión de imágenes en la nube con Cloudinary
+- Conexión con ApiRest Mapgenda_Backend
 
 ---
 
