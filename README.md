@@ -8,7 +8,7 @@ Aplicación móvil de turismo personalizado que permite a los usuarios encontrar
 
 ---
 
-<img src="assets/mapgenda_demo.gif"/>
+<img src="assets/mapgenda_demo2.gif"/>
 
 --
 
