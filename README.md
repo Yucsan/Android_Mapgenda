@@ -8,7 +8,7 @@ Aplicación móvil de turismo personalizado que permite a los usuarios encontrar
 
 ---
 
-<video src="assets/interface.mp4" autoplay loop muted playsinline></video>
+[![Demo](assets/demo.gif)](assets/interface.mp4)
 
 --
 
